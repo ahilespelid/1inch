@@ -1,0 +1,1 @@
+localStorage.getItem("emergencyCase")&&console.log("Emergency script call 1");
